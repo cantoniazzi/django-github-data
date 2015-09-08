@@ -1,0 +1,19 @@
+{
+  "name": "y",
+  "version": "0.0.1",
+  "authors": [
+    "Antoniazzi <cassiosvaldo@gmail.com>"
+  ],
+  "description": "static libs",
+  "moduleType": [
+    "amd",
+    "es6",
+    "globals",
+    "node",
+    "yui"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bootstrap": "~3.3.5"
+  }
+}
